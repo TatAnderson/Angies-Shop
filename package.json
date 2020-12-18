@@ -1,0 +1,19 @@
+{
+  "name": "angies-shop",
+  "version": "1.0.0",
+  "description": "Simple Shop inventory & Daily Sales app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatAnderson/Angies-Shop.git"
+  },
+  "author": "Tatika Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatAnderson/Angies-Shop/issues"
+  },
+  "homepage": "https://github.com/TatAnderson/Angies-Shop#readme"
+}
